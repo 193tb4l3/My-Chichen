@@ -2,7 +2,8 @@
     "name": "My Chicken",
     "short_name": "My Chicken",
     "description": "Aplikasi kasir ayam yang dapat digunakan secara offline.",
-    "start_url": "index.html",
+    "start_url": "/My-Chichen/index.html",
+    "scope": "/My-Chichen/",
     "display": "standalone",
     "background_color": "#F97316",
     "theme_color": "#ffffff",
@@ -18,5 +19,4 @@
             "type": "image/png"
         }
     ]
-
 }
